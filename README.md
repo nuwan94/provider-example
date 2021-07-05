@@ -1,16 +1,11 @@
-# provider_example
+# e-Commerce Shop application with Flutter
 
-A new Flutter project.
+![](https://img.shields.io/badge/Built%20with-Flutter-blue) [![Codemagic build status](https://api.codemagic.io/apps/5f68436bce8cd9b7f0095a7e/5f68436bce8cd9b7f0095a7d/status_badge.svg)](https://codemagic.io/apps/5f68436bce8cd9b7f0095a7e/5f68436bce8cd9b7f0095a7d/latest_build)
 
-## Getting Started
+# Screen Record
 
-This project is a starting point for a Flutter application.
+![demo-gif](screenshots/play.gif)
 
-A few resources to get you started if this is your first Flutter project:
+# Build
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[CodeMagic.io Automated Builds](https://codemagic.io/apps/5f68436bce8cd9b7f0095a7e/5f68436bce8cd9b7f0095a7d/latest_build) | Available in .APK and .APP formats
